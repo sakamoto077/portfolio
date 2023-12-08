@@ -4,7 +4,7 @@
 # Portfolio
 
 - 坂本　彬
-- 連絡先 Email [@am1tanaka](https://twitter.com/am1tanaka) / Email [a@a.a](mailto:a@a.a)
+- 連絡先 Email
 - 専門学校デジタルアーツ東京 ゲームプログラムコース 2025年卒業予定
 
 ## 資格
